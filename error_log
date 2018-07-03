@@ -1,0 +1,197 @@
+[16-May-2018 23:58:05 UTC] PHP Notice:  Undefined variable: pageTitle in /home/chrisdaw/public_html/phpsite/inc/header.php on line 3
+[16-May-2018 23:58:12 UTC] PHP Notice:  Undefined variable: pageTitle in /home/chrisdaw/public_html/phpsite/inc/header.php on line 3
+[18-May-2018 19:43:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_category() in /home/chrisdaw/public_html/phpsite/catalog.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/phpsite/catalog.php on line 37
+[18-May-2018 19:43:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_category() in /home/chrisdaw/public_html/phpsite/catalog.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/phpsite/catalog.php on line 37
+[18-May-2018 19:43:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_category() in /home/chrisdaw/public_html/phpsite/catalog.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/phpsite/catalog.php on line 37
+[18-May-2018 19:43:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_category() in /home/chrisdaw/public_html/phpsite/catalog.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/phpsite/catalog.php on line 37
+[18-May-2018 19:43:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_category() in /home/chrisdaw/public_html/phpsite/catalog.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/phpsite/catalog.php on line 37
+[18-May-2018 19:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_category() in /home/chrisdaw/public_html/phpsite/catalog.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/phpsite/catalog.php on line 37
+[18-May-2018 19:45:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_category() in /home/chrisdaw/public_html/phpsite/catalog.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/phpsite/catalog.php on line 37
+[18-May-2018 19:45:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_category() in /home/chrisdaw/public_html/phpsite/catalog.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/phpsite/catalog.php on line 37
+[18-May-2018 19:46:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_category() in /home/chrisdaw/public_html/phpsite/catalog.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/phpsite/catalog.php on line 37
+[18-May-2018 19:46:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_category() in /home/chrisdaw/public_html/phpsite/catalog.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/phpsite/catalog.php on line 37
+[18-May-2018 19:48:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_category() in /home/chrisdaw/public_html/phpsite/catalog.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/phpsite/catalog.php on line 37
+[18-May-2018 20:33:52 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 20:33:52 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 20:52:22 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 32
+[18-May-2018 20:52:22 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 37
+[18-May-2018 21:12:11 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 32
+[18-May-2018 21:12:11 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 37
+[18-May-2018 21:12:11 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 41
+[18-May-2018 21:12:11 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 45
+[18-May-2018 21:12:11 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 49
+[18-May-2018 21:12:11 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 32
+[18-May-2018 21:12:11 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 37
+[18-May-2018 21:12:11 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 41
+[18-May-2018 21:12:11 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 45
+[18-May-2018 21:12:11 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 49
+[18-May-2018 21:12:12 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 32
+[18-May-2018 21:12:12 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 37
+[18-May-2018 21:12:12 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 41
+[18-May-2018 21:12:12 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 45
+[18-May-2018 21:12:12 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 49
+[18-May-2018 22:11:30 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 32
+[18-May-2018 22:11:30 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 37
+[18-May-2018 22:11:30 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 41
+[18-May-2018 22:11:30 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 45
+[18-May-2018 22:11:30 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 49
+[18-May-2018 22:11:30 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 53
+[18-May-2018 22:11:35 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 32
+[18-May-2018 22:11:35 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 37
+[18-May-2018 22:11:35 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 41
+[18-May-2018 22:11:35 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 45
+[18-May-2018 22:11:35 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 49
+[18-May-2018 22:11:35 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 53
+[18-May-2018 22:11:36 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 32
+[18-May-2018 22:11:36 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 37
+[18-May-2018 22:11:36 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 41
+[18-May-2018 22:11:36 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 45
+[18-May-2018 22:11:36 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 49
+[18-May-2018 22:11:36 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 53
+[18-May-2018 22:11:36 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 32
+[18-May-2018 22:11:36 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 37
+[18-May-2018 22:11:36 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 41
+[18-May-2018 22:11:36 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 45
+[18-May-2018 22:11:36 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 49
+[18-May-2018 22:11:36 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 53
+[18-May-2018 22:11:37 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 32
+[18-May-2018 22:11:37 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 37
+[18-May-2018 22:11:37 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 41
+[18-May-2018 22:11:37 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 45
+[18-May-2018 22:11:37 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 49
+[18-May-2018 22:11:37 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 53
+[18-May-2018 22:11:37 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 32
+[18-May-2018 22:11:37 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 37
+[18-May-2018 22:11:37 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 41
+[18-May-2018 22:11:37 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 45
+[18-May-2018 22:11:37 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 49
+[18-May-2018 22:11:37 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 53
+[18-May-2018 22:11:46 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 32
+[18-May-2018 22:11:46 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 37
+[18-May-2018 22:11:46 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 41
+[18-May-2018 22:11:46 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 45
+[18-May-2018 22:11:46 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 49
+[18-May-2018 22:11:46 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 53
+[18-May-2018 22:33:48 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 32
+[18-May-2018 22:33:48 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 37
+[18-May-2018 22:33:48 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 41
+[18-May-2018 22:33:48 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 45
+[18-May-2018 22:33:48 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 49
+[18-May-2018 22:33:48 UTC] PHP Notice:  Undefined variable: item in /home/chrisdaw/public_html/phpsite/index.php on line 53
+[18-May-2018 22:49:02 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:49:02 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:51:25 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:51:25 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:51:25 UTC] PHP Notice:  Array to string conversion in /home/chrisdaw/public_html/phpsite/details.php on line 63
+[18-May-2018 22:53:10 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:53:10 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:53:27 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:53:27 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:58:08 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:58:08 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:58:57 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:58:57 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:59:29 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:59:29 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:59:34 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:59:34 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:59:38 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:59:38 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:59:40 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:59:40 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:59:42 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 22:59:42 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 23:00:34 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 23:00:34 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 23:07:22 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 23:07:22 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 23:07:56 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[18-May-2018 23:07:56 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[19-May-2018 21:14:18 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/chrisdaw/public_html/phpsite/process.php on line 13
+[19-May-2018 21:14:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/chrisdaw/public_html/phpsite/process.php on line 13
+[19-May-2018 21:14:27 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/chrisdaw/public_html/phpsite/process.php on line 13
+[19-May-2018 21:14:30 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/chrisdaw/public_html/phpsite/process.php on line 13
+[19-May-2018 21:24:35 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/chrisdaw/public_html/phpsite/process.php on line 20
+[19-May-2018 21:24:35 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/chrisdaw/public_html/phpsite/process.php on line 20
+[19-May-2018 21:24:35 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chrisdaw/public_html/phpsite/process.php on line 20
+[19-May-2018 21:24:35 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/chrisdaw/public_html/phpsite/process.php on line 28
+[19-May-2018 21:24:35 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/chrisdaw/public_html/phpsite/process.php on line 28
+[19-May-2018 21:24:35 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chrisdaw/public_html/phpsite/process.php on line 28
+[19-May-2018 21:24:53 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/chrisdaw/public_html/phpsite/process.php on line 20
+[19-May-2018 21:24:53 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/chrisdaw/public_html/phpsite/process.php on line 20
+[19-May-2018 21:24:53 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chrisdaw/public_html/phpsite/process.php on line 20
+[19-May-2018 21:24:53 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/chrisdaw/public_html/phpsite/process.php on line 28
+[19-May-2018 21:24:53 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/chrisdaw/public_html/phpsite/process.php on line 28
+[19-May-2018 21:24:53 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chrisdaw/public_html/phpsite/process.php on line 28
+[19-May-2018 22:11:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/chrisdaw/public_html/phpsite/suggest.php on line 38
+[19-May-2018 22:14:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/chrisdaw/public_html/phpsite/suggest.php on line 38
+[19-May-2018 22:15:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/chrisdaw/public_html/phpsite/suggest.php on line 38
+[19-May-2018 22:15:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/chrisdaw/public_html/phpsite/suggest.php on line 38
+[19-May-2018 22:16:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/chrisdaw/public_html/phpsite/suggest.php on line 38
+[19-May-2018 22:19:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/chrisdaw/public_html/phpsite/suggest.php on line 41
+[22-May-2018 22:49:01 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[22-May-2018 22:49:01 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[24-May-2018 00:49:50 UTC] PHP Warning:  require(vender/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/chrisdaw/public_html/phpsite/suggest.php on line 5
+[24-May-2018 00:49:50 UTC] PHP Warning:  require(vender/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/chrisdaw/public_html/phpsite/suggest.php on line 5
+[24-May-2018 00:49:50 UTC] PHP Fatal error:  require(): Failed opening required 'vender/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chrisdaw/public_html/phpsite/suggest.php on line 5
+[24-May-2018 20:36:45 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[24-May-2018 20:36:45 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[24-May-2018 20:40:35 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[24-May-2018 20:40:35 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[26-May-2018 23:04:02 UTC] PHP Parse error:  syntax error, unexpected '$email_body' (T_VARIABLE) in /home/chrisdaw/public_html/phpsite/suggest.php on line 39
+[26-May-2018 23:04:06 UTC] PHP Parse error:  syntax error, unexpected '$email_body' (T_VARIABLE) in /home/chrisdaw/public_html/phpsite/suggest.php on line 39
+[26-May-2018 23:59:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/chrisdaw/public_html/phpsite/suggest.php on line 234
+[27-May-2018 19:55:53 UTC] PHP Warning:  Use of undefined constant category - assumed 'category' (this will throw an Error in a future version of PHP) in /home/chrisdaw/public_html/phpsite/suggest.php on line 90
+[27-May-2018 19:55:53 UTC] PHP Warning:  Use of undefined constant category - assumed 'category' (this will throw an Error in a future version of PHP) in /home/chrisdaw/public_html/phpsite/suggest.php on line 91
+[27-May-2018 19:55:53 UTC] PHP Warning:  Use of undefined constant category - assumed 'category' (this will throw an Error in a future version of PHP) in /home/chrisdaw/public_html/phpsite/suggest.php on line 92
+[27-May-2018 20:17:06 UTC] PHP Warning:  Use of undefined constant category - assumed 'category' (this will throw an Error in a future version of PHP) in /home/chrisdaw/public_html/phpsite/suggest.php on line 90
+[27-May-2018 20:17:06 UTC] PHP Warning:  Use of undefined constant category - assumed 'category' (this will throw an Error in a future version of PHP) in /home/chrisdaw/public_html/phpsite/suggest.php on line 91
+[27-May-2018 20:17:06 UTC] PHP Warning:  Use of undefined constant category - assumed 'category' (this will throw an Error in a future version of PHP) in /home/chrisdaw/public_html/phpsite/suggest.php on line 92
+[27-May-2018 20:17:06 UTC] PHP Notice:  Undefined index: $details in /home/chrisdaw/public_html/phpsite/suggest.php on line 417
+[28-May-2018 04:24:35 UTC] PHP Warning:  Use of undefined constant category - assumed 'category' (this will throw an Error in a future version of PHP) in /home/chrisdaw/public_html/phpsite/suggest.php on line 90
+[28-May-2018 04:24:35 UTC] PHP Warning:  Use of undefined constant category - assumed 'category' (this will throw an Error in a future version of PHP) in /home/chrisdaw/public_html/phpsite/suggest.php on line 91
+[28-May-2018 04:24:35 UTC] PHP Warning:  Use of undefined constant category - assumed 'category' (this will throw an Error in a future version of PHP) in /home/chrisdaw/public_html/phpsite/suggest.php on line 92
+[28-May-2018 04:24:35 UTC] PHP Notice:  Undefined index: $details in /home/chrisdaw/public_html/phpsite/suggest.php on line 417
+[07-Jun-2018 07:31:44 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[07-Jun-2018 07:31:44 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[07-Jun-2018 07:31:50 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[07-Jun-2018 07:31:50 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[07-Jun-2018 07:31:54 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[07-Jun-2018 07:31:54 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[07-Jun-2018 07:31:59 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[07-Jun-2018 07:31:59 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[23-Jun-2018 22:58:25 UTC] PHP Notice:  Undefined variable: title in /home/chrisdaw/public_html/phpsite/details.php on line 20
+[23-Jun-2018 22:58:25 UTC] PHP Notice:  Undefined index:  in /home/chrisdaw/public_html/phpsite/details.php on line 20
